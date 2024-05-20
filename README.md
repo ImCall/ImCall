@@ -64,7 +64,7 @@
 
 ###
 
-<img alt="My stats" align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=ImCall&theme=github_dark&show_icons=true"/>
-<img alt="My top languages" align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImCall&theme=github_dark&show_icons=true"/>
+<img alt="My stats" align="left" width="45%" src="https://github-readme-stats-mu-three-37.vercel.app/api?username=ImCall&theme=github_dark&show_icons=true"/>
+<img alt="My top languages" align="right" width="45%" src="https://github-readme-stats-mu-three-37.vercel.app/api/top-langs/?username=ImCall&theme=github_dark&show_icons=true"/>
 
 ###
