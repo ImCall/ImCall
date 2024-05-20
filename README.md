@@ -64,8 +64,7 @@
 
 ###
 
-<div align="center">
-  [![ImCall's GitHub stats](https://github-readme-stats.vercel.app/api?username=ImCall)](https://github.com/ImCall/github-readme-stats)
-</div>
+<img alt="My stats" align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=ImCall&theme=github_dark&show_icons=true"/>
+<img alt="My top languages" align="right" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImCall&theme=github_dark&show_icons=true"/>
 
 ###
